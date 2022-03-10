@@ -1,6 +1,6 @@
 import model.JogodaForca
 fun main(args: Array<String>) {
-    var j = JogodaForca("Casado", "Moradia - Sinonimo")
+    var j = JogodaForca("Casado", "Estado Civil")
     j.IniciarJogo()
 }
 /*
